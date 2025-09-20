@@ -11,4 +11,3 @@ Part of the lyrics for the song "About You" by The 1975 that become my most favo
 ```
 
 ## This is part of my C language learning journey though
-```c
